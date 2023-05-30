@@ -1,5 +1,5 @@
 {
-  "name": "nodejsrzkyw",
+  "name": "Tugas_PW",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -7,12 +7,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rzkyw/nodejsrzkyw.git"
+    "url": "git+https://github.com/AriKurniawan27/Tugas_PW.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rzkyw/nodejsrzkyw/issues"
+    "url": "https://github.com/AriKurniawan27/Tugas_PW/issues"
   },
-  "homepage": "https://github.com/rzkyw/nodejsrzkyw#readme"
+  "homepage": "https://github.com/AriKurniawan27/Tugas_PW#readme"
 } 
